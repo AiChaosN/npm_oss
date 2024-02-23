@@ -1,0 +1,22 @@
+{
+  "name": "my_npm",
+  "version": "1.0.0",
+  "description": "a npm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "-t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AiChaosN/npm_oss.git"
+  },
+  "keywords": [
+    "my_npm"
+  ],
+  "author": "chaosn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AiChaosN/npm_oss/issues"
+  },
+  "homepage": "https://github.com/AiChaosN/npm_oss#readme"
+}
